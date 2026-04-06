@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+output/*.mp4
+output/**/*.mp4
+*_fitted.jpg
+*.tmp
+.vscode/
+.idea/

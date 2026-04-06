@@ -1,0 +1,35 @@
+[meta]
+title = "The Friendliest Ghost"
+author = "22B-labs"
+language = "en"
+bgm = ""
+
+[[panels]]
+image = "panel_01.png"
+duration = 4.0
+tts = "In an old house on the hill, there lived a tiny ghost."
+effect = "fade"
+
+[[panels]]
+image = "panel_02.png"
+duration = 4.0
+tts = "Every night, he tried his best to scare the people who came by."
+effect = "slide_left"
+
+[[panels]]
+image = "panel_03.png"
+duration = 4.0
+tts = "But everyone just thought he was absolutely adorable."
+effect = "fade"
+
+[[panels]]
+image = "panel_04.png"
+duration = 3.5
+tts = "Am I really that un-scary? He wondered sadly."
+effect = "zoom"
+
+[[panels]]
+image = "panel_05.png"
+duration = 4.0
+tts = "So he decided to become the world's friendliest ghost instead. The end."
+effect = "fade"

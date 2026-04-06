@@ -1,0 +1,5 @@
+gTTS>=2.5
+moviepy>=2.0
+Pillow>=10.0
+toml>=0.10
+rich>=13.0
